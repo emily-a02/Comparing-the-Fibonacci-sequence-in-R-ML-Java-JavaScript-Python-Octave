@@ -51,6 +51,6 @@ public class FibSequence {
       System.out.println(number);
 
    }
-}
+}log(10)
 
 
