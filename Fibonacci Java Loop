@@ -50,7 +50,6 @@ public class FibSequence {
    private static void log(String number) {
       System.out.println(number);
 
-   }
-}
-fork the repository
+   }log(fib(10))
+
 
